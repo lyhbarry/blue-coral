@@ -1,7 +1,7 @@
-# Blue Coral :snake:
+# Blue Coral
 
-Cross-Exchange trading platform for crypto currency.
+Cross-exchange trading platform for cryptocurrency :snake:
 
-Supported exchanges:
+## Supported exchanges
 
 - Bittrex
