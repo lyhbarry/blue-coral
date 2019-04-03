@@ -1,4 +1,4 @@
-# Blue Coral
+# BlueKoral
 
 Cross-exchange trading platform for cryptocurrency :snake:
 
